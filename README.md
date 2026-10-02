@@ -77,6 +77,8 @@ E-com/
     ├── DATABASE_DESIGN.md       # Database schemas, relationships, indexing, and validation
     ├── API_SPECIFICATION.md     # Detailed REST endpoints, request/response contracts
     ├── FRONTEND_SPECIFICATION.md# UI/UX guidelines, page wireframes, state management
+    ├── VALIDATION_AND_SECURITY.md # Deep-dive security, validation matrix & auth guards
+    ├── DEMO_FLOW.md             # End-to-end interactive demo flow & test scenarios
     └── IMPLEMENTATION_PLAN.md   # Step-by-step development roadmap & verification plan
 ```
 
@@ -163,6 +165,8 @@ Explore the in-depth documentation inside the [`docs/`](./docs) folder:
 - 🗄️ **[Database Design & Schemas](./docs/DATABASE_DESIGN.md)**: Mongoose schemas, relationships, indexing, and stock integrity rules.
 - 🌐 **[REST API Specification](./docs/API_SPECIFICATION.md)**: Complete API contract, parameters, status codes, and JSON payloads.
 - 🎨 **[Frontend & UI/UX Specification](./docs/FRONTEND_SPECIFICATION.md)**: Tailwind styling, responsive layouts, components, and contexts.
+- 🛡️ **[Validation & Security Specification](./docs/VALIDATION_AND_SECURITY.md)**: Comprehensive validation matrices, JWT crypto, and authorization middleware.
+- 🎬 **[Demo Flow & Testing Guide](./docs/DEMO_FLOW.md)**: Step-by-step walkthrough, test accounts, cURL commands, and status lifecycle.
 - 📋 **[Implementation Plan](./docs/IMPLEMENTATION_PLAN.md)**: Step-by-step phased execution guide from environment setup to deployment.
 
 ---
